@@ -75,5 +75,3 @@ For a parking lot with 10 slots:
 - User accounts and administrator dashboard.
 - Multiple parking-rate categories.
 
-## 12. Author
-Student project — Modern Parking Management System.
